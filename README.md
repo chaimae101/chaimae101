@@ -1,10 +1,9 @@
 
 # Hi, I'm Chaima Abouhas 👋
 
-🎓 **Computer Science & Technology Undergraduate**
-Interested in Artificial Intelligence, Machine Learning, and intelligent software systems.
+🎓 Computer Science & Technology Undergraduate | Aspiring AI Master's Student
 
-I'm a fourth-year undergraduate at Nanjing University of Information Science and Technology, preparing for master's studies in AI or Computer Science. My experience includes software development, database systems, Python-based projects, and data processing.
+I'm a fourth-year undergraduate at Nanjing University of Information Science and Technology, interested in Artificial Intelligence, Machine Learning, and intelligent software systems. I enjoy building software applications and exploring data-processing technologies.
 
 ## 🛠️ Technologies
 
